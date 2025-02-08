@@ -1,4 +1,4 @@
-# 🏡 Kalendar rezervacija   
+# Kalendar rezervacija za vlasnike apartmane  
 
 Web aplikacija je namenjena vlasnicima apartmana za upravljanje rezervacijama. Projekat omogućava jednostavno kreiranje i praćenje rezervacija putem interaktivnog kalendara.  
 
